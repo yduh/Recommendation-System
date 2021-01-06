@@ -1,4 +1,5 @@
 data/*.sqlite*
+data/*_clean.csv
 models/*.pkl
 *.o
 *.pcy
