@@ -1,6 +1,6 @@
 # Recommendation-System
 
-There are two folders, `Movie-Tweetings` contains a series of jupyter notebooks that I used for learning and the materials display an example of a movie recommendation system. `IBM-Watson-Recomm-Engine` is the project that it analyze the interactions users have with articles on the IBM Watson Studio platform and make recommendation to them about new articles.   
+There are two folders, `Movie-Tweetings` contains a series of jupyter notebooks that I used for learning and the materials display an example of a movie recommendation system. `IBM-Watson-Recomm-Engine` is the project that it analyzes the interactions users have with articles on the IBM Watson Studio platform and make a recommendation to them about new articles.   
 
 ## The 3 main branches 
 1. Knowledge Based ([notebook1](https://github.com/yduh/Recommendation-System/blob/main/Movie-Tweetings/Introduction%20to%20the%20Recommendation%20Data.ipynb), [notebook2](https://github.com/yduh/Recommendation-System/blob/main/Movie-Tweetings/Most_Popular_Recommendations.ipynb)) : rare purchases (ex: car, house, luxury sell), look at the current trend or popularity 
