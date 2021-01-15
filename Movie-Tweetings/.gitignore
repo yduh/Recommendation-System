@@ -3,4 +3,5 @@ data/*_clean.csv
 models/*.pkl
 *.o
 *.pcy
+.ipynb_checkpoints/*
 .DS_Store
